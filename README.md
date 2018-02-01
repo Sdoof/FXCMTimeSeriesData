@@ -1,4 +1,4 @@
-"# FXCMTimeSeriesData" 
+# FXCMTimeSeriesData
 
 Enjoy free access to our historical Time Series or Candle Data.
 
