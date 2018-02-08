@@ -29,7 +29,7 @@ To give an example, the path for extracting EURUSD daily-data for 2012 would be
 
 https://candledata.fxcorporate.com/D1/EURUSD/2012.csv.gz
 
-If you are familiar with Python, we have three scripts that you may use for Python 2.7, Python 3.4, or a pandas data frame
+If you are familiar with Python, we have three scripts that you may use for [Python 2.7](https://github.com/FXCMAPI/FXCMTimeSeriesData/blob/master/CandleData27.py), [Python 3.4](https://github.com/FXCMAPI/FXCMTimeSeriesData/blob/master/CandleData34.py), or a [pandas data frame](https://github.com/FXCMAPI/FXCMTimeSeriesData/blob/master/CandleData(pandas).py)
 
 
 ## Note:
